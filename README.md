@@ -1,2 +1,3 @@
 # ci
-[![Build Status](https://travis-ci.org/wulinlw/ci.svg?branch=master)](https://travis-ci.org/wulinlw/ci)
+travis-ci [![Build Status](https://travis-ci.org/wulinlw/ci.svg?branch=master)](https://travis-ci.org/wulinlw/ci)  
+Azure Pipelines [![Build Status](https://dev.azure.com/wulinlw/wulinlw/_apis/build/status/wulinlw.ci?branchName=master)](https://dev.azure.com/wulinlw/wulinlw/_build/latest?definitionId=1&branchName=master)
