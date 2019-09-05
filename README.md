@@ -6,6 +6,8 @@ Azure Pipelines [![Build Status](https://dev.azure.com/wulinlw/wulinlw/_apis/bui
 github actions  
 文档  
 https://help.github.com/cn/articles/workflow-syntax-for-github-actions  
+https://help.github.com/en/categories/automating-your-workflow-with-github-actions  
+
 参考  
 https://github.com/mvdan/github-actions-golang  
 https://github.com/actions/starter-workflows/blob/master/ci/go.yml
